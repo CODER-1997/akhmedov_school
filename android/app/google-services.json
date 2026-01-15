@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178371306577",
+    "project_id": "akhmedovschool-aa5e9",
+    "storage_bucket": "akhmedovschool-aa5e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178371306577:android:af844b3e2cb747946a0470",
+        "android_client_info": {
+          "package_name": "beki.app.akhmedov_school"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYb2fyXhaHAg_SZLlCXkINaRZC2BQPRXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
